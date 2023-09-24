@@ -1,0 +1,142 @@
+{
+  "why":[
+    {
+      "title" : "Direct Sourcing",
+      "desc" : "We source products directly from the very people who produce them, guaranteeing freshness and authenticity.",
+      "icon" : "direct.png"
+    },
+    {
+      "title" : "Global Reach",
+      "desc" : "Our products have reached international markets, bringing a taste of Indonesia to households worldwide.",
+      "icon" : "global.png"
+    },
+    {
+      "title" : "Ethical Practies",
+      "desc" : "We adhere to ethical business practices, complying with all relevant regulations and certifications.",
+      "icon" : "ethical.png"
+    },
+    {
+      "title" : "Community Focus",
+      "desc" : "Our business is driven by a deep commitment to improving the quality of life for local communities.",
+      "icon" : "community.png"
+    }
+  ],
+
+  "vision": [
+    "Moving forward with Farmers, Fishermen and MSMEs",
+    "Help farmers, fishermen and MSMEs",
+    "Establish Brotherhood throughout the world"
+  ],
+  "mission": [
+    "Opening the way for farmers, fishermen and MSMEs to sell their products to foreign countries",
+    "Make it easy for World Citizens to enjoy native commodities from our area",
+    "Providing information, education and assistance to farmers, fishermen and MSMEs",
+    "Improving the quality of life together",
+    "Stimulating innovative and creative farmers, fishermen and MSMEs",
+    "Provide a positive effect on the economy of local and global communities"
+  ],
+
+  "core_values": [
+    {
+      "title" : "Empowerment",
+      "desc": "We empower local producers by providing them access to international markets, helping them expand their reach and improve their livelihoods."
+    },
+    {
+      "title" : "Quality",
+      "desc": "We are committed to delivering the highest quality products, ensuring that each item reflects the rich flavors and craftsmanship of Indonesia."
+    },
+    {
+      "title" : "Sustainability",
+      "desc": "We believe in sustainable practices that protect our natural resources and maintain the cultural heritage of our region."
+    },
+    {
+      "title" : "Innovation",
+      "desc": "We foster innovation among local farmers, fishermen, and artisans, enabling them to compete in the global marketplace."
+    }
+    
+  ],
+
+
+    "items": [
+      {
+        "id": "01",
+        "name": "Exceptional Quality",
+        "description": "Our products are known for their exceptional quality, freshness, and unique flavors. We take great care in selecting and sourcing the best commodities from our region."
+      },
+      {
+        "id": "02",
+        "name": "Supporting Local Products",
+        "description": "Our business model is centered around empowering local producers. When you choose our products, you're not only getting exceptional goods but also contributing to the growth and prosperity of small-scale farmers and artisans."
+      },
+      {
+        "id": "03",
+        "name": "Direct Sourcing",
+        "description": "We pride ourselves on our direct sourcing approach. By eliminating intermediaries, we ensure that our products maintain their authenticity and reach consumers in the best possible condition."
+      },
+      {
+        "id": "04",
+        "name": "Cultural Richness",
+        "description": "We pride ourselves on our direct sourcing approach. By eliminating intermediaries, we ensure that our products maintain their authenticity and reach consumers in the best possible condition."
+      },
+      {
+        "id": "05",
+        "name": "Sustainability",
+        "description": "We are committed to sustainable practices that not only protect our environment but also support the long-term livelihoods of local communities. Our products are the result of responsible and eco-friendly production methods."
+      }
+    ],
+    
+    "products": [
+      {
+        "name": "Dry Cashews",
+        "description": "Seaweed is a macro algae plant, which does not have true roots, stems, and leaves. Generally live on the bottom of shallow sandy waters or beds. Divided into four parts, namely green-blue (Cyanophyta), red (Rhodophyta), brown (phaeophyta). Contains Vitamins and Minerals, Vitamins; A, C, B6, B12 and substances; iron, magnesium, niacin, thiamine, manganese, magnesium, calcium. It is an additional food that is healthy and good for regular consumption.",
+        "image": "cashew.png"
+      },
+      {
+        "name": "Dry Seaweed",
+        "description": "Seaweed is a macro algae plant, which does not have true roots, stems, and leaves. Generally live on the bottom of shallow sandy waters or beds. Divided into four parts, namely green-blue (Cyanophyta), red (Rhodophyta), brown (phaeophyta). Contains Vitamins and Minerals, Vitamins; A, C, B6, B12 and substances; iron, magnesium, niacin, thiamine, manganese, magnesium, calcium. It is an additional food that is healthy and good for regular consumption.",
+        "image": "seaweed.png"
+      },
+      {
+        "name": "Peeled Coconut",
+        "description": "Coconut is the main commodity in the province of Southeast Sulawesi, Indonesia.  This commodity is very promising for buyers because of its adequate quality and quantity.  and the quality of the coconut itself is very good and high quality.  Southeast Sulawesi province has various types of coconut whose flesh tastes very delicious and sweet.  Southeast Sulawesi Province is very famous for its many coconut trees.  There is one area, namely Wawonii Regency, which is nicknamed Coconut Island.  We will maintain the quality of the coconut fruit until it reaches the buyer.",
+        "image": "peeledCoconut.png"
+      },
+      {
+        "name": "Fresh Coconut",
+        "description": "Seaweed is a macro algae plant, which does not have true roots, stems, and leaves. Generally live on the bottom of shallow sandy waters or beds. Divided into four parts, namely green-blue (Cyanophyta), red (Rhodophyta), brown (phaeophyta). Contains Vitamins and Minerals, Vitamins; A, C, B6, B12 and substances; iron, magnesium, niacin, thiamine, manganese, magnesium, calcium. It is an additional food that is healthy and good for regular consumption.",
+        "image": "freshCoconut.png"
+      },
+      {
+        "name": "Rice Husk",
+        "description": "Seaweed is a macro algae plant, which does not have true roots, stems, and leaves. Generally live on the bottom of shallow sandy waters or beds. Divided into four parts, namely green-blue (Cyanophyta), red (Rhodophyta), brown (phaeophyta). Contains Vitamins and Minerals, Vitamins; A, C, B6, B12 and substances; iron, magnesium, niacin, thiamine, manganese, magnesium, calcium. It is an additional food that is healthy and good for regular consumption.",
+        "image": "ricehusk.png"
+      },
+      {
+        "name": "Mud Crab",
+        "description": "Seaweed is a macro algae plant, which does not have true roots, stems, and leaves. Generally live on the bottom of shallow sandy waters or beds. Divided into four parts, namely green-blue (Cyanophyta), red (Rhodophyta), brown (phaeophyta). Contains Vitamins and Minerals, Vitamins; A, C, B6, B12 and substances; iron, magnesium, niacin, thiamine, manganese, magnesium, calcium. It is an additional food that is healthy and good for regular consumption.",
+        "image": "mud-crab.png"
+      },
+      {
+        "name": "Broom Sticks",
+        "description": "Seaweed is a macro algae plant, which does not have true roots, stems, and leaves. Generally live on the bottom of shallow sandy waters or beds. Divided into four parts, namely green-blue (Cyanophyta), red (Rhodophyta), brown (phaeophyta). Contains Vitamins and Minerals, Vitamins; A, C, B6, B12 and substances; iron, magnesium, niacin, thiamine, manganese, magnesium, calcium. It is an additional food that is healthy and good for regular consumption.",
+        "image": "broomSticks.png"
+      },
+      {
+        "name": "Melon",
+        "description": "Seaweed is a macro algae plant, which does not have true roots, stems, and leaves. Generally live on the bottom of shallow sandy waters or beds. Divided into four parts, namely green-blue (Cyanophyta), red (Rhodophyta), brown (phaeophyta). Contains Vitamins and Minerals, Vitamins; A, C, B6, B12 and substances; iron, magnesium, niacin, thiamine, manganese, magnesium, calcium. It is an additional food that is healthy and good for regular consumption.",
+        "image": "melon.png"
+      },
+      {
+        "name": "Coconut Leaf Stalks of Export Quality",
+        "description": "Seaweed is a macro algae plant, which does not have true roots, stems, and leaves. Generally live on the bottom of shallow sandy waters or beds. Divided into four parts, namely green-blue (Cyanophyta), red (Rhodophyta), brown (phaeophyta). Contains Vitamins and Minerals, Vitamins; A, C, B6, B12 and substances; iron, magnesium, niacin, thiamine, manganese, magnesium, calcium. It is an additional food that is healthy and good for regular consumption.",
+        "image": "stick.png"
+      },
+      {
+        "name": "Watermelon",
+        "description": "Seaweed is a macro algae plant, which does not have true roots, stems, and leaves. Generally live on the bottom of shallow sandy waters or beds. Divided into four parts, namely green-blue (Cyanophyta), red (Rhodophyta), brown (phaeophyta). Contains Vitamins and Minerals, Vitamins; A, C, B6, B12 and substances; iron, magnesium, niacin, thiamine, manganese, magnesium, calcium. It is an additional food that is healthy and good for regular consumption.",
+        "image": "watermelon.png"
+      }
+    ]
+    
+  }
+  
